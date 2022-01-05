@@ -1,0 +1,6 @@
+[BINDLIST1]
+BINDNAME = bind
+COLUMN1 = 时间 \\local\$Time
+COLUMN2 = 温度 \\local\温度
+COLUMN3 = 压力 \\local\压力
+COLUMN4 = 湿度 \\local\湿度

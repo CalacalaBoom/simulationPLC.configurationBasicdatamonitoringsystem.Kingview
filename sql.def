@@ -1,0 +1,6 @@
+[TABLE1]
+TABLENAME = table
+COLUMN1 = 时间 3 10 2 0
+COLUMN2 = 温度 2 1 2 0
+COLUMN3 = 压力 2 1 2 0
+COLUMN4 = 湿度 2 1 2 0
